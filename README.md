@@ -1,13 +1,13 @@
 # Consumer-Complaint-Analysis-SQL-
 Analyze consumer complaints against financial companies to find trends, company performance gaps, and resolution patterns.
 ## Dataset
-[TOTAL_ROWS] complaints, 18 columns (product, issue, company, state, channel, response, timeliness, dispute status, narrative).
+64K complaints, 18 columns (product, issue, company, state, channel, response, timeliness, dispute status, narrative).
 
 ## Tools
 MySQL 8
 
 ## Skills Demonstrated
-CTEs, window functions (RANK, LAG, ROW_NUMBER), CASE, views, indexes, data cleaning, feature engineering, text search with LIKE.
+CTEs, window functions (RANK, LAG, ROW_NUMBER), CASE, views, data cleaning, feature engineering, text search with LIKE.
 
 ## Project Structure
 01_setup.sql | 02_trends.sql | 03_companies.sql
